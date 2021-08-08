@@ -1,13 +1,5 @@
-# img-fairdatapoint
-Image Repository für eine modifizierte Python FDP Implementierung von https://github.com/fair-data/fairdatapoint
-
----------------------------------------------------------------------------------------------------------------------------
-
 # FAIR Data Point (FDP)
-
-[![PyPI](https://img.shields.io/pypi/v/fairdatapoint)](https://pypi.org/project/fairdatapoint/)
-[![DOI](https://zenodo.org/badge/37470907.svg)](https://zenodo.org/badge/latestdoi/37470907)
-[![Research Software Directory](https://img.shields.io/badge/RSD-FAIRDataPoint-red)](https://research-software.nl/software/fairdatapoint)
+Image Repository for a modified python FDP implementation of: https://github.com/fair-data/fairdatapoint
 
 ## Overview
 Python implementation of FAIR Data Point.
@@ -21,7 +13,6 @@ Other implementations are also available, e.g. [Java implementation](https://git
 
 ### Demo server
 A demo server of this Python implementation is http://fdp.fairdatapoint.nl/
-
 
 ## Installation
 To install FDP From PyPi, do
